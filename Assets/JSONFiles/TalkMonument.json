@@ -1,0 +1,20 @@
+{
+    "dialogues": [
+      {
+        "sentence": "チュートリアル用の石碑です",
+        "options": [],
+        "action": ""
+      },
+      {
+        "sentence": "いい感じですか？",
+        "options": [],
+        "action": ""
+      },
+      {
+        "sentence": "改行してみます\n改行できましたか？",
+        "options": [],
+        "action": ""
+      }
+    ]
+}
+  

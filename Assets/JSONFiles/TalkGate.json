@@ -1,0 +1,23 @@
+{
+    "dialogues": [
+      {
+        "sentence": "ゲームを開始しますか？",
+        "options": [
+          { "optionText": "はい", "nextDialogueIndex": 1, "action": "" },
+          { "optionText": "いいえ", "nextDialogueIndex": 2, "action": "" }
+        ],
+        "action": ""
+      },
+      {
+        "sentence": "ゲームを開始します",
+        "options": [],
+        "action": "OpenDoor"
+      },
+      {
+        "sentence": "準備ができたら、ドアを開けてください",
+        "options": [],
+        "action": ""
+      }
+    ]
+}
+  

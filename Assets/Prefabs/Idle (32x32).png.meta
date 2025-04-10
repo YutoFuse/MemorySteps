@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: cd947491a13509945aa1b644f9db3ef2
-AssetOrigin:
-  serializedVersion: 1
-  productId: 155360
-  packageName: Pixel Adventure 1
-  packageVersion: 1.0
-  assetPath: Assets/Pixel Adventure 1/Assets/Main Characters/Ninja Frog/Idle (32x32).png
-  uploadId: 332803
+guid: d42091a8dddd567458c40354dd36cdce
 TextureImporter:
   internalIDToNameTable:
   - first:
